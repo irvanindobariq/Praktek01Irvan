@@ -18,5 +18,7 @@ public class SepatuAksi {
         Rina.Bahan="Kulit";
         Rina.Merk="Nike";
         Rina.Harga="200000";
+        
+        Rina.cetakInfo();
     }
 }
