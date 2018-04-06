@@ -11,6 +11,6 @@ package praktek01irvan;
  */
 public class SepatuAksi {
     public static void main(String[] args) {
-        
+        Sepatu Rina = new Sepatu();
     }
 }
